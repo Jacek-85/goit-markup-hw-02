@@ -151,7 +151,7 @@ body {
     line-height: 1.62;
 }
 
-.button:focus {
+.button:hover {
     background-color: var(--blue);
     color: var(--white);
     cursor: pointer;
